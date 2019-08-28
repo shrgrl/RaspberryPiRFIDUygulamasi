@@ -6,7 +6,7 @@ Raspberry Pi kurulumunu burada[](https://github.com/shrgrl/RPi-Kurulumu) anlatm�
  <li>VNC: Ağ üzerinden uzak masaüstü bağlantısı sağlar.</li> 
  <li>SPI: Donanımsal SPI bağlantısını aktifleştirir. GPIO pinleri aracılığı ile SPI bağlantısına sahip bir cihaz kullanmak istersek (sensör, RFID okuyucu, LCD ekran v.b.) aktifleştirmemiz gerekir.</li>
 </td>
-<br>Daha sonra gerekli devre elemanlarını ayarladım:<br>
+<br>Daha sonra gerekli devre elemanlarını ayarladım:<br><br>
 <td>
  <li>Raspberry Pi</li>
  <li>Breadboard</li>
